@@ -154,7 +154,7 @@ Proje Sahibi -  onurdemirel18@outlook.com
 
 Proje Linki: [https://github.com/OnurDemirel18/stok-takip](https://github.com/OnurDemirel18/stok-takip)
 
-### Projeden Ekran Görüntüleri
+### Projeden Ekran Görüntüleri (Light Tema)
 
 ## Giriş Ekranı
 
@@ -202,3 +202,9 @@ Proje Linki: [https://github.com/OnurDemirel18/stok-takip](https://github.com/On
 
 ![Screenshot 2025-01-02 145252](https://github.com/user-attachments/assets/f7a0f9f6-b689-4f77-af09-b1833ab5bf27)
 
+
+### Projeden Ekran Görüntüleri (Dark Tema)
+
+![Screenshot 2025-01-02 145817](https://github.com/user-attachments/assets/3c3d7511-1b18-49a1-b2ab-1e1b1d5cfccb)
+
+![Screenshot 2025-01-02 145837](https://github.com/user-attachments/assets/4a9d7166-d809-4382-8127-6b126da1ec93)
