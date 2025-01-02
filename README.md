@@ -153,3 +153,9 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 Proje Sahibi -  onurdemirel18@outlook.com
 
 Proje Linki: [https://github.com/OnurDemirel18/stok-takip](https://github.com/OnurDemirel18/stok-takip)
+
+### Projeden Ekran Görüntüleri
+
+![Screenshot 2025-01-02 144125](https://github.com/user-attachments/assets/cdb765f3-b75d-4379-be6f-012f6c0c3594)
+
+![Screenshot 2025-01-02 144141](https://github.com/user-attachments/assets/3e5fe57f-cb4c-462e-b855-838c5d98bd49)
