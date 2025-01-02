@@ -150,6 +150,6 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 ## 📧 İletişim
 
-Proje Sahibi - [@username](https://twitter.com/username) - email@example.com
+Proje Sahibi -  onurdemirel18@outlook.com
 
-Proje Linki: [https://github.com/username/stok-takip](https://github.com/username/stok-takip)
+Proje Linki: [https://github.com/OnurDemirel18/stok-takip](https://github.com/OnurDemirel18/stok-takip)
